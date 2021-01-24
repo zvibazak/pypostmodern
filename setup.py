@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pypostmodern",
-    version="0.1.0",
+    version="0.2.0",
     author="Zvi Bazak",
     author_email="",
     description="Prepare your Python code to the postmodernism era!",
