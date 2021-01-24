@@ -6,7 +6,7 @@ This code:
 if False:
     print('It's the postmodernism time!')
 ```
-With pypostmodern the output will be:
+with pypostmodern the output will be:
 
 `It's the postmodernism time!`
 
