@@ -6,7 +6,7 @@ This code:
 if False:
     print('It's the postmodernism time!')
 ```
-with pypostmodern the output will be:
+with `pypostmodern` the output will be:
 
 `It's the postmodernism time!`
 
@@ -15,3 +15,16 @@ with pypostmodern the output will be:
 [Postmodernism on Wikipedia](https://en.wikipedia.org/wiki/Postmodernism)
 
 So let's turn your Python to a Postmodern Python, where there is no truth...
+
+## Usage
+Clone code with:
+`git clone https://github.com/zvibazak/pypostmodern.git`
+
+Edit you code on `script.py`
+
+Set your truths at `run.py`:
+```py
+truths = ["1+1==3","False"] #add here more truths... 
+```
+
+Run `run.py`
