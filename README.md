@@ -21,7 +21,7 @@ Clone code with:
 Edit you code on `script.py`, your code should start with `# coding: my_truth`
 
 Set your truths at `run.py`:
-```py
+```python
 truths = ["1+1==3","False"] #add here more truths... 
 ```
 
