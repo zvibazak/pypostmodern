@@ -8,9 +8,8 @@ if False:
     print('It's the postmodernism era!')
 ```
 the output will be:
-```py
-It's the postmodernism time!
-```
+
+`It's the postmodernism time!`
 
 >Postmodernist philosophers in general argue that truth is always contingent on historical and social context rather than being absolute and universal and that truth is always partial and "at issue" rather than being complete and certain. [Wikipedia](https://en.wikipedia.org/wiki/Postmodernism)
 
