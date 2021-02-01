@@ -18,7 +18,14 @@ the output will be:
 Clone code with:
 `git clone https://github.com/zvibazak/pypostmodern.git`
 
-Edit you code on `script.py`, your code should start with `# coding: my_truth`
+Edit you code on `script.py`, your code should start with `# coding: my_truth`:
+```python
+# coding: my_truth
+if 1+1==2: 
+    print("Yeh this is True...")
+if False: 
+    print("This is also True...")
+```
 
 Set your truths at `run.py`:
 ```python
