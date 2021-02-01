@@ -1,5 +1,5 @@
 # pypostmodern
-Prepare your Python code to the **postmodernism era**!
+Prepare your Python code to the **postmodern era**!
 
 >Postmodernist philosophers in general argue that truth is always contingent on historical and social context rather than being absolute and universal and that **truth is always partial and "at issue" rather than being complete and certain**. [Wikipedia](https://en.wikipedia.org/wiki/Postmodernism)
 
@@ -8,11 +8,11 @@ So let's turn your Python to **a Postmodern Python, where there is no truth...**
 Running this code with `pypostmodern`:
 ```python
 if False:
-    print('It's the postmodernism era!')
+    print('It's the postmodern era!')
 ```
 the output will be:
 
-`It's the postmodernism time!`
+`It's the postmodern era!`
 
 ## Usage
 Clone code with:
