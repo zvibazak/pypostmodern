@@ -8,7 +8,7 @@ So let's turn your Python to **a Postmodern Python, where there is no truth...**
 Running this code with `pypostmodern`:
 ```python
 if False:
-    print('It's the postmodern era!')
+    print("It's the postmodern era!")
 ```
 the output will be:
 
