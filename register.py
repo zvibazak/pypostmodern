@@ -6,7 +6,7 @@ truths = []
 def my_truth_decode(input, errors="strict"):
     raw = bytes(input).decode("utf-8")
     for truth in truths:
-        code = raw.replace(truth[0],truth[1])
+        code = raw.replace(truth,"True")
     return code, len(input)
 
 def search_function(encoding):
