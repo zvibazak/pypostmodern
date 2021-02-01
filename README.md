@@ -10,9 +10,7 @@ with `pypostmodern` the output will be:
 
 `It's the postmodernism time!`
 
->Postmodernist philosophers in general argue that truth is always contingent on historical and social context rather than being absolute and universal and that truth is always partial and "at issue" rather than being complete and certain. 
-
-[Postmodernism on Wikipedia](https://en.wikipedia.org/wiki/Postmodernism)
+>Postmodernist philosophers in general argue that truth is always contingent on historical and social context rather than being absolute and universal and that truth is always partial and "at issue" rather than being complete and certain. [Wikipedia](https://en.wikipedia.org/wiki/Postmodernism)
 
 So let's turn your Python to a Postmodern Python, where there is no truth...
 
@@ -20,7 +18,7 @@ So let's turn your Python to a Postmodern Python, where there is no truth...
 Clone code with:
 `git clone https://github.com/zvibazak/pypostmodern.git`
 
-Edit you code on `script.py`
+Edit you code on `script.py`, your code should start with `# coding: my_truth`
 
 Set your truths at `run.py`:
 ```py
